@@ -6,7 +6,7 @@ Certainly! Here is a list of some basic AWS commands that are commonly used in t
 
 ### General Commands:
 
-``` aws configure ```
+1. ``` aws configure ```
    - Configures your AWS CLI with your AWS access key, secret key, default region, and output format.
 
 2. **aws help:**
