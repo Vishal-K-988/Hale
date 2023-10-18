@@ -19,19 +19,20 @@ To install Red Hat CLI tools, you need a valid Red Hat subscription. Make sure y
 - ***Access the Command Line:***
 Open a terminal or command prompt on your system where you want to install the Red Hat CLI tool. 
 
-- *** Update Your System: ***
+- ***Update Your System:***
 It's always a good practice to update your system's package repository before installing new software. Run the following command: 
 ```sudo yum update```
 If you're using a different package manager like dnf, use dnf update instead.
 
-- *** Install Red Hat CLI: ***
+- ***Install Red Hat CLI:***
 You can install the Red Hat CLI tool using the package manager (yum or dnf). The exact command can vary based on your system configuration, but it should be something like:
 ```sudo yum install rhel-osp-director```
 or for `dnf`: 
 ```sudo dnf install rhel-osp-director```
+
 Follow the prompts to confirm the installation. The package manager will download and install the necessary files.
 
-- *** Verify the Installation: ***
+- ***Verify the Installation:***
 After installation is complete, you can verify that the CLI tool has been installed by running:
 ```rhel-osp-director --version```
 
