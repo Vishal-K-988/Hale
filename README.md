@@ -13,10 +13,10 @@ Red Hat provides a command-line interface (CLI) tool called ```rhel-osp-director
 
 1. General steps for installing Red Hat CLI: 
 
-- *** Ensure You Have Red Hat Subscription: ***
+- ***Ensure You Have Red Hat Subscription:***
 To install Red Hat CLI tools, you need a valid Red Hat subscription. Make sure you have access to the Red Hat repositories.
 
-- *** Access the Command Line: ***
+- ***Access the Command Line:***
 Open a terminal or command prompt on your system where you want to install the Red Hat CLI tool. 
 
 - *** Update Your System: ***
