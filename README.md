@@ -1,12 +1,7 @@
 # Hale
 Healthcare Website 
 
-# 2. Basic Commands
-These are only basic commands for more you can consider https://learn.microsoft.com/en-us/azure/?product=popular
+**1. Red Hat CLI:**
+Red Hat provides a command-line interface (CLI) tool called rhel-osp-director for managing Red Hat OpenStack Platform environments. 
 
-### 1. Login to Azure Account:
-```az login```
-
-### 2. List Subscriptions:
-```az account list```
-
+- General steps for installing Red Hat CLI: 
